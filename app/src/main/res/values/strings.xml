@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">
+        ListViewLesson
+    </string>
+
+    <string-array name="names">
+        <item>Ivan</item>
+        <item>Maria</item>
+        <item>Petr</item>
+        <item>Feoktist</item>
+        <item>Prokofiy</item>
+        <item>Fedor</item>
+        <item>Angelika</item>
+        <item>Fiona</item>
+        <item>Koko</item>
+        <item>Biryuk</item>
+    </string-array>
+</resources>
